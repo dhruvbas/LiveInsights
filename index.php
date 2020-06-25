@@ -44,7 +44,7 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<h2 class="animate__animated animate__fadeInDown">Grow Your Sales with  <span>A.I. Powered Solutions</span></h2>
-						<p class="animate__animated animate__fadeInUp" style = "width:80%">Take control of your costs, manage inventory better and improve demand forecast using Live Insights’ cloud platform solutions.</p>
+						<p class="animate__animated animate__fadeInUp" style = "width:80%">Take control of your costs, manage inventory better and improve demand forecast using Live Insights’ cloud platform solutions</p>
 						<a href="contact.php" class="btn-get-started animate__animated animate__fadeInUp">Schedule a Demo</a>
 					</div>
 					<div class="col-lg-6 animate__animated animate__fadeInDown desktopview delay1">
