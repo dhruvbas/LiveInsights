@@ -36,7 +36,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>See All Your <span class = "colored">Data Insights</span>  In <span class = "colored">One Place</span></h2>
-		  <p class = "topmargin50">It's time to stop wasting time in collecting data, sharing spreadsheets, or going back and forth on where the data is coming from or which calculation is right. Our online platform powers analytics, forecasting and planning. The platform can be used by cross-functional teams across the Organization, including sales, supply chain, operations, and marketing.
+		  <p class = "topmargin50">It's time to stop wasting time in collecting data, sharing spreadsheets, or going back and forth on where the data is coming from or which calculation is right. Our online platform powers analytics, forecasting and planning. The platform can be used by cross-functional teams across the Organization, including sales, supply chain, operations, and marketing
 		  </p>
         </div>
 	  </div>
