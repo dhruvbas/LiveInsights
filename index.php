@@ -69,7 +69,9 @@
 
     <section id="content" style="padding-bottom: 50px;" class = "about">
       <div class="container">
-
+        <div class="section-title" data-aos="fade-up">
+          <h2>Our <span class = "colored">Services</span></h2>
+        </div>
         <div class="row">
 
           <div class="col-lg-6">
