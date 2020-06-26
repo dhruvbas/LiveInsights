@@ -36,7 +36,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>See All Your <span class = "colored">Data Insights</span>  In <span class = "colored">One Place</span></h2>
-		  <p class = "topmargin50">It's time to stop wasting time in collecting data, sharing spreadsheets, or going back and forth on where the data is coming from or which calculation is right. Our online platform powers analytics, forecasting and planning. The platform can be used by cross-functional teams across the Organization, including sales, supply chain, operations, and marketing
+		  <p class = "topmargin50">It's time to stop wasting time in collecting data, sharing spreadsheets, or going back and forth on where the data is coming from or which calculation is right. Our online platform powers analytics, forecasting and planning. The platform can be used by cross-functional teams across the Organization, including sales, supply chain, operations, and marketing.
 		  </p>
         </div>
 	  </div>
@@ -63,6 +63,7 @@
 				<div class="text content" style = "text-align:left">
 					<ul>
 						<li><i class="icofont-check-circled"></i>See all your data in one place</li>
+						<li><i class="icofont-check-circled"></i>Cloud Infrastructure</li>
 						<li><i class="icofont-check-circled"></i>Flexible Pricing - You pay for what you use</li>
 						<li><i class="icofont-check-circled"></i>Allows to add multiple accounts</li>
 						<li><i class="icofont-check-circled"></i>Customizable - Can be customized to serve yours and your clients needs better</li>
