@@ -40,19 +40,20 @@
 
 
           <div class="col-lg-4 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Our Address</h4>
             <p>
               Live Insights Inc. <br>
               33 Lombard Street<br>
               Toronto M5C 3H8 Canada <br><br>
-              <strong>Email:</strong>  contact@liveinsights.ai<br>
+              <strong>Email Us:</strong>  contact@liveinsights.ai<br>
+			  <strong>Call Us:</strong>  +1 416 825 9636<br>
             </p>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>About Live Insights</h3>
-            <p>We provide data analytics solutions to modern, consumer-focussed companies. Our team leverage machine learning and artificial intelligence to improve demand forecasting, scheduling, inventory management to name a few.</p>
+            <p>We provide data analytics solutions to modern, consumer-focused companies. Our team leverages machine learning and artificial intelligence to improve demand forecasting, scheduling, inventory management, and more</p>
             <div class="social-links mt-3">
               <a href="https://twitter.com/insights_live" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="https://www.facebook.com/LiveInsights-956248711386271/" class="facebook"><i class="bx bxl-facebook"></i></a>
