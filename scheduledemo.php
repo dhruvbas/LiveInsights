@@ -32,7 +32,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Watch a</span> Demo<span class = "colored"></h2>
-		  <p class = "topmargin50">See how LiveInsights' Platform helps to improve your business and provides seamless experience with your data. It all starts with a few simple steps - pick a date and time and fill in the details. See you soon!
+		  <p class = "topmargin50">See how LiveInsights' Platform helps to improve your business and provides seamless experience with your data analytics needs. It all starts with a few simple steps - pick a date and time and fill in the details. See you soon!
         </div>
 	  </div>
 	</section>

@@ -141,10 +141,10 @@
 
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="services" class="services backgroundservice ">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+        <div class="section-title margintop30" data-aos="fade-up">
           <h2>Why Choose <span class = "colored">LiveInsights</span></h2>
         </div>
 
@@ -152,7 +152,7 @@
           <div class="col-lg-4">
             
 			 
-				<h4 style = "text-align: center">High <span class = "colored">Quality</span></h4>
+				<h4 style = "text-align: center"><span class = "colored">Expert </span>Team</h4>
 				<div class = " whyus">
 					
 					<p>
@@ -173,7 +173,7 @@
           <div class="col-lg-4">
             
 			 
-				<h4 style = "text-align: center">Rich <span class = "colored">Features</span></h4>
+				<h4 style = "text-align: center"><span class = "colored">Easy-To-Use </span>Platform</h4>
 				<div class = "whyus">
 					
                     <p>
@@ -195,7 +195,7 @@
           <div class="col-lg-4">
             
 			 
-				<h4 style = "text-align: center">Customized <span class = "colored">Solutions</span></h4>
+				<h4 style = "text-align: center"><span class = "colored">Custom</span> To You</span></h4>
 				<div class = "whyus">
 					
                     <p>
@@ -212,7 +212,7 @@
 				</div>
 			  
             
-          </div>>
+          </div>
 
         </div>
 

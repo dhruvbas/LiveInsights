@@ -79,12 +79,12 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2><span class = "colored">Value</span> Proposition</h2>
+          <h2><span class = "colored">Value</span> To You</h2>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="icon-box">
+            <div class="icon-box border">
               <div class="icon"><i class="bx bx-analyse"></i></div>
               <h4><a href="">ANALYZE</a></h4>
               <p>Actionable insights from orders and POS analytics; automated reporting, and smart alerts. Live Insights simplify data collection and cleansing, so you can get straight to insights</p>
@@ -92,7 +92,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="icon-box">
+            <div class="icon-box border">
               <div class="icon"><i class="bx bx-trending-up"></i></div>
               <h4><a href="">PREDICT</a></h4>
               <p>Zoom into opportunities by focusing on what’s selling where, real-time forecasted demand, to name a few. Live Insights dynamically recommends top opportunity areas to direct your resources</p>
@@ -100,9 +100,9 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
+            <div class="icon-box border">
               <div class="icon"><i class="bx bx-repost"></i></div>
-              <h4><a href="">REPEAT</a></h4>
+              <h4><a href="">ITERATE</a></h4>
               <p>Forecasts are updated in real-time and machine learning self-tunes demand models based on new data</p>
             </div>
           </div>
@@ -113,10 +113,10 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="services" class="services backgroundservice">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+        <div class="section-title margintop30" data-aos="fade-up">
           <h2>Our Solution Is <span class = "colored">Ideal For</span></h2>
         </div>
 
