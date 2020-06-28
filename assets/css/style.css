@@ -709,6 +709,10 @@ section {
   transition: all ease-in-out 0.3s;
 }
 
+.services .icon-box .border{
+	border: 1px solid #ededed;
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
@@ -2283,3 +2287,13 @@ display: inline-block;
 .show {
     display: block;
 }
+
+.backgroundservice {
+	background-color: #f9f7f7;
+}
+
+.margintop30 {
+	padding-top: 30px;
+}
+
+
