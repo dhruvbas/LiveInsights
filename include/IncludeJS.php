@@ -11,6 +11,6 @@
   <script src="assets/vendor/venobox/venobox.min.js"></script>
 
   <!-- Template Main JS File -->
-   <script src="assets/js/inview.js"></script>  
    <script src="assets/js/animate.js"></script>
+   <script src="assets/js/inview.js"></script>  
   <script src="assets/js/main.js"></script>
