@@ -30,7 +30,7 @@
             <h4>Browse Pages</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.php">Products</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.php">Platform</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="company.php">Company</a></li>
 			  <li><i class="bx bx-chevron-right"></i> <a href="https://medium.com/@LiveInsights" target="_blank">Blog</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact Us</a></li>

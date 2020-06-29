@@ -12,7 +12,7 @@
         <ul>
 			<li class= "<?php echo $HomePage ?>"><a href="index.php">Home</a></li>
 			<li class="dropdown <?php echo $ProductsPage ?>">
-			  <a href="products.php">Products</a>
+			  <a href="products.php">Platform</a>
 			</li>
 			<li class="dropdown <?php echo $CompanyPage ?>">
 			  <a href="company.php">Company</a>
