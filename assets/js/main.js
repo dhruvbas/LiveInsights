@@ -117,7 +117,7 @@
   });
 
   // Back to top button
-  $(window).scroll(function() {
+ /* $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
       $('.back-to-top').fadeIn('slow');
     } else {
@@ -130,7 +130,7 @@
       scrollTop: 0
     }, 1500, 'easeInOutExpo');
     return false;
-  });
+  });*/
 
   // Clients carousel (uses the Owl Carousel library)
   $(".clients-carousel").owlCarousel({
@@ -194,38 +194,37 @@
     loop: true,
     items: 1
   });
-  
-    //add some elements with animate effect
-
-  var iOS = false,
-    p = navigator.platform;
-
-  if (p === 'iPad' || p === 'iPhone' || p === 'iPod') {
-    iOS = true;
-  }
-
-  if (iOS === false) {
-
-    $('.flyIn').bind('inview', function (event, visible) {
-      if (visible === true) {
-        $(this).addClass('animated fadeInUp');
-      }
-    });
-
-    $('.flyLeft').bind('inview', function (event, visible) {
-      if (visible === true) {
-        $(this).addClass('animated fadeInLeftBig');
-      }
-    });
-
-    $('.flyRight').bind('inview', function (event, visible) {
-      if (visible === true) {
-        $(this).addClass('animated fadeInRightBig');
-      }
-    });
-
-  }
-
-
 
 })(jQuery);
+
+    //add some elements with animate effect
+$(document).ready(function($) {
+	  var iOS = false,
+		p = navigator.platform;
+
+	  if (p === 'iPad' || p === 'iPhone' || p === 'iPod') {
+		iOS = true;
+	  }
+
+	  if (iOS === false) {
+
+		$('.flyIn').bind('inview', function (event, visible) {
+		  if (visible === true) {
+			$(this).addClass('animated fadeInUp');
+		  }
+		});
+
+		$('.flyLeft').bind('inview', function (event, visible) {
+		  if (visible === true) {
+			$(this).addClass('animated fadeInLeftBig');
+		  }
+		});
+
+		$('.flyRight').bind('inview', function (event, visible) {
+		  if (visible === true) {
+			$(this).addClass('animated fadeInRightBig');
+		  }
+		});
+
+	  }
+});
