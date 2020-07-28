@@ -56,7 +56,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@liveinsights.ai</p>
+              <p>devesh@liveinsights.ai</p>
             </div>
           </div>
 
