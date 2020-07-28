@@ -131,7 +131,7 @@
           </div>
 		  <div class="col-lg-6 margin20">
             <div class="aligncenter flyRight">
-				<img src="assets/img/engage.jpg" alt="" class="img-fluid" />
+				<img src="assets/img/engage.png" alt="" class="img-fluid" />
 
             </div>
           </div>
