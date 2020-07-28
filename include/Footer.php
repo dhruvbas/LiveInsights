@@ -45,7 +45,7 @@
               Live Insights Inc. <br>
               33 Lombard Street<br>
               Toronto M5C 3H8 Canada <br><br>
-              <strong>Email Us:</strong>  contact@liveinsights.ai<br>
+              <strong>Email Us:</strong>  devesh@liveinsights.ai<br>
 			  <strong>Call Us:</strong>  +1 416 825 9636 <br>
             </p>
 
